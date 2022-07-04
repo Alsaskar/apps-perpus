@@ -12,7 +12,7 @@ Tools yang digunakan adalah :
 
 ## Hasil Aplikasi
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/login.png?token=GHSAT0AAAAAABVPROEYV5U44BTE5UCXFC7YYWDATGQ)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/login.png?token=GHSAT0AAAAAABVPROEZN4FGMNLZGWGFXI64YWDA2RA)
 -- Halaman Login
 
 ![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/register.png?token=GHSAT0AAAAAABVPROEZ2OXEI4XY7AAALEKOYWDAVSA)
