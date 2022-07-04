@@ -12,38 +12,15 @@ Tools yang digunakan adalah :
 
 ## Hasil Aplikasi
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/login.png?token=GHSAT0AAAAAABVPROEYV5U44BTE5UCXFC7YYWDATGQ)
+![alt text](https://i.ibb.co/fQc4hM6/login.png)
 -- Halaman Login
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/register.png?token=GHSAT0AAAAAABVPROEZ2OXEI4XY7AAALEKOYWDAVSA)
--- Halaman Register
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_admin.png?token=GHSAT0AAAAAABVPROEYFA2VCI2SP4SRZPT6YWDAVZQ)
+![alt text](https://i.postimg.cc/SxNJc1y1/dashboard-admin.png)
 -- Dashboard Admin
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_anggota.png?token=GHSAT0AAAAAABVPROEZUZHGRTACPN3I52H2YWDAWPA)
+![alt text](https://i.postimg.cc/wxXvZYMb/dashboard-anggota.png)
 -- Dashboard Anggota
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_buku.png?token=GHSAT0AAAAAABVPROEYOYLLGPUPCMKFFHNOYWDAXCQ)
--- Data Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/detail_buku.png?token=GHSAT0AAAAAABVPROEYGB5EDNAH4NWFAPRQYWDAXMQ)
--- Detail Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_anggota.png?token=GHSAT0AAAAAABVPROEZ42DKXERI7Y6HKEIQYWDAX4A)
--- Data Anggota
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/pinjam_buku.png?token=GHSAT0AAAAAABVPROEYZUHYKUQ7HDBZBI3GYWDAYDQ)
--- Pinjam Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pinjaman.png?token=GHSAT0AAAAAABVPROEZM7RL3M6HNU6VNO5YYWDAYMA)
--- Data Pinjaman Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/kembalikan_buku.png?token=GHSAT0AAAAAABVPROEYRTJFPIL6FDXDFNLMYWDAYXA)
--- Kembalikan Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pengembalian.png?token=GHSAT0AAAAAABVPROEZCHMQXLGTGIIJJQ4SYWDAY7Q)
--- Data Pengembalian Buku
-
 ### Keterengan
+- Foto hasil aplikasi bisa dilihat pada folder `images_app` di root project
 - Repository ini hanya digunakan untuk dipakai sebagai portfolio
