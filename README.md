@@ -12,49 +12,37 @@ Tools yang digunakan adalah :
 
 ## Hasil Aplikasi
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/login.png?token=GHSAT0AAAAAABVPROEZO23RNWXWQNM4KJS2YWC76AQ)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/login.png?token=GHSAT0AAAAAABVPROEYV5U44BTE5UCXFC7YYWDATGQ)
 -- Halaman Login
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/register.png?token=GHSAT0AAAAAABVPROEZSN2CI3ISHCAMSYLCYWC767Q)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/register.png?token=GHSAT0AAAAAABVPROEZ2OXEI4XY7AAALEKOYWDAVSA)
 -- Halaman Register
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/register_success.png?token=GHSAT0AAAAAABVPROEZQ3GLA5UBMTDC2CIOYWC77ZQ)
--- Halaman Register (jika berhasil)
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_admin.png?token=GHSAT0AAAAAABVPROEZ6FYTOHSTHIKUXRDQYWDAAWA)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_admin.png?token=GHSAT0AAAAAABVPROEYFA2VCI2SP4SRZPT6YWDAVZQ)
 -- Dashboard Admin
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_anggota.png?token=GHSAT0AAAAAABVPROEYTI22IEFR3RUG76MYYWDABPA)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/dashboard_anggota.png?token=GHSAT0AAAAAABVPROEZUZHGRTACPN3I52H2YWDAWPA)
 -- Dashboard Anggota
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/profil_anggota.png?token=GHSAT0AAAAAABVPROEZIL2CGVY4PCVTLX5KYWDAFCQ)
--- Profil Anggota
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_buku.png?token=GHSAT0AAAAAABVPROEYRHUYHYCIH4VJFKOIYWDAFRQ)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_buku.png?token=GHSAT0AAAAAABVPROEYOYLLGPUPCMKFFHNOYWDAXCQ)
 -- Data Buku
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/add_buku.png?token=GHSAT0AAAAAABVPROEYAEBAPTSH6XMKEDWGYWDAGCQ)
--- Tambahkan Buku
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/detail_buku.png?token=GHSAT0AAAAAABVPROEZC3I4SYBAF3X2KELCYWDAGTA)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/detail_buku.png?token=GHSAT0AAAAAABVPROEYGB5EDNAH4NWFAPRQYWDAXMQ)
 -- Detail Buku
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_anggota.png?token=GHSAT0AAAAAABVPROEZD5Q7MSMSTZQ7R36EYWDAHCA)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_anggota.png?token=GHSAT0AAAAAABVPROEZ42DKXERI7Y6HKEIQYWDAX4A)
 -- Data Anggota
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/detail_anggota.png?token=GHSAT0AAAAAABVPROEYBFHGHJK7LUWGNMM6YWDAICQ)
--- Detail Anggota
-
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/pinjam_buku.png?token=GHSAT0AAAAAABVPROEYDKPU6XN2WZPGLIOWYWDAI7A)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/pinjam_buku.png?token=GHSAT0AAAAAABVPROEYZUHYKUQ7HDBZBI3GYWDAYDQ)
 -- Pinjam Buku
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pinjaman.png?token=GHSAT0AAAAAABVPROEYS5Q53N5KIZLRYDBKYWDAJ2A)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pinjaman.png?token=GHSAT0AAAAAABVPROEZM7RL3M6HNU6VNO5YYWDAYMA)
 -- Data Pinjaman Buku
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/kembalikan_buku.png?token=GHSAT0AAAAAABVPROEZRWZTOPCW465HLGXMYWDAKCQ)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/kembalikan_buku.png?token=GHSAT0AAAAAABVPROEYRTJFPIL6FDXDFNLMYWDAYXA)
 -- Kembalikan Buku
 
-![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pengembalian.png?token=GHSAT0AAAAAABVPROEZ26D7ZT2BPCUKWEBIYWDAKUQ)
+![alt text](https://raw.githubusercontent.com/Alsaskar/apps-perpus/main/images_apps/data_pengembalian.png?token=GHSAT0AAAAAABVPROEZCHMQXLGTGIIJJQ4SYWDAY7Q)
 -- Data Pengembalian Buku
 
 ### Keterengan
