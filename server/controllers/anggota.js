@@ -1,8 +1,8 @@
 const AnggotaModel = require('../models/anggota')
 const multer = require('multer')
 const client = require('twilio')(
-    "AC0a195eaacf9f74a12d1ca172e78b0bd1",
-    "f2c06f675fcca863aa9bbf540b706def"
+    userTwilio,
+    tokenTwilio
 );
 
 const storage = multer.diskStorage({
